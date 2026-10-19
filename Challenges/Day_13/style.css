@@ -21,13 +21,13 @@ section {
   line-height: 220px;
   overflow: hidden;
   font-family: 'Merriweather', serif;
-  animation: animate 20s linear infinite;
+  animation: animate 5s linear infinite;
 }
 
 .wrapper {
     height: 100%;
     width: 50%;
-    background-color: #E4538D;
+    background-color: aquamarine;
     overflow: hidden;
     color:#FDE9E3;
     position: absolute;
